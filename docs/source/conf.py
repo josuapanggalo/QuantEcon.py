@@ -1,3 +1,4 @@
+# hello world!
 # -*- coding: utf-8 -*-
 #
 # QuantEcon documentation build configuration file, created by
